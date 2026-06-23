@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0112-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
