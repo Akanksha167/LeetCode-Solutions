@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 ## Matrix
 |  |
@@ -41,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
