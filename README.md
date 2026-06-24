@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0136-single-number](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
