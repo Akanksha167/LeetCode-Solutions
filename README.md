@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0068-text-justification](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0136-single-number](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0136-single-number) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -69,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0068-text-justification) |
+## Hash Table
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
