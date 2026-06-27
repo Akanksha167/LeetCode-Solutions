@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
