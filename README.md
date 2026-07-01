@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
@@ -142,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
