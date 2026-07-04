@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+| [0275-h-index-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0275-h-index-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Combinatorics
