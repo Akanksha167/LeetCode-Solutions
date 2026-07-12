@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0199-binary-tree-right-side-view](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0199-binary-tree-right-side-view](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0199-binary-tree-right-side-view](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 ## Dynamic Programming
 |  |
 | ------- |
