@@ -237,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
