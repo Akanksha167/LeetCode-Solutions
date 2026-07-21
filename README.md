@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
