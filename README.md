@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+| [0171-excel-sheet-column-number](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
