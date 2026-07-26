@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0133-clone-graph](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0133-clone-graph](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
