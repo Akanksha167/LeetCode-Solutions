@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0068-text-justification](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
