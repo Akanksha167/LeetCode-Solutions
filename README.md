@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0140-word-break-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0486-predict-the-winner](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
