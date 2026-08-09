@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
