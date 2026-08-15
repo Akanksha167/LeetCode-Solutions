@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0132-palindrome-partitioning-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
