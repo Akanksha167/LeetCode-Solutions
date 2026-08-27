@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
