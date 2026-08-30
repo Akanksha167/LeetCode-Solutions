@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0221-maximal-square) |
+| [0300-longest-increasing-subsequence](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1140-stone-game-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0221-maximal-square) |
 | [0275-h-index-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -545,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
