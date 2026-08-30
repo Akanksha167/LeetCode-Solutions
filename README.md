@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [1331-rank-transform-of-an-array](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [2029-stone-game-ix](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
