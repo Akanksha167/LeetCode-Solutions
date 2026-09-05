@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Akanksha167/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 ## Nim Game
